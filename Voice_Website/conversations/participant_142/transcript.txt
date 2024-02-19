@@ -1,0 +1,18 @@
+NEXT IMAGE >> 2.jpg <<
+
+NEXT IMAGE >> 1.jpg <<
+
+NEXT IMAGE >> 0.jpg <<
+
+[UPLOADED CUSTOM IMAGE NAME]> 142-1.png 
+[INITIAL CAPTION]>> a man in a green mask and black jacket 
+
+[11-57-43]>> Blind User:  Is the man real man or a cartoon? 
+[11-58-29]>> Visual Assistant: The man in the image is a cartoon. 
+
+[11-58-43]>> Blind User:  That's a weird glasses. 
+[11-59-13]>> Visual Assistant: Yes, the glasses the man is wearing are quite unusual. 
+
+[11-59-25]>> Blind User:  What is the color of the hair? 
+[12-01-30]>> Visual Assistant: The man has white hair. 
+

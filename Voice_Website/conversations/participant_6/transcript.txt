@@ -1,0 +1,15 @@
+[10-19-40]>> Blind User:  This is a test. 
+[10-19-42]>> Visual Assistant: Answer 
+
+[10-21-50]>> Blind User:  This is the test. 
+[10-21-53]>> Visual Assistant: Answer 
+
+[10-22-08]>> Blind User:  We described BS ou 
+[10-22-10]>> Visual Assistant: Answer 
+
+[10-22-27]>> Blind User:  What is going on? 
+[10-22-28]>> Visual Assistant: Answer 
+
+[10-22-36]>> Blind User:  Why is the confessing? 
+[10-22-37]>> Visual Assistant: Answer 
+

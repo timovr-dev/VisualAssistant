@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Speech Recognition in Python</title>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/index.css') }}" />
+
+	<!-- Latest compiled and minified Bootstrap CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+</head>
+<body>
+    <center>
+    <h1>Visual Assistant Prototype for <br> Blind and Visually Impaired People</h1>
+    <br><br>
+    <div style="max-width: 50em;">
+<h1 style='font-family: Arial, sans-serif; color: #333; font-size: 22px; font-weight: bold; text-align: left; margin-bottom: 20px;'>Visual Assistant User Study Guide</h1>
+
+<p style='font-family: Arial, sans-serif; color: #333; font-size: 16px; text-align: left; margin-bottom: 15px;'>Welcome to this user study session. The focus of this study is the testing of a new tool called the Visual Assistant. This tool has been developed to support individuals like you who are blind or visually impaired.</p>
+
+<p style='font-family: Arial, sans-serif; color: #333; font-size: 16px; text-align: left; margin-bottom: 15px;'>During this study, you will have the opportunity to interact with an image through the Visual Assistant. You are encouraged to speak into your microphone, and the Visual Assistant will respond with audio. You can activate the push-to-talk function by pressing the space key on your keyboard. Release the space key to send your questions to the Visual Assistant.</p>
+
+<h2 style='font-family: Arial, sans-serif; color: #333; font-size: 18px; font-weight: bold; text-align: left; margin-bottom: 20px;'>Providing Your Feedback</h2>
+
+<p style='font-family: Arial, sans-serif; color: #333; font-size: 16px; text-align: left; margin-bottom: 15px;'>Your feedback is crucial to the success of this study. At any point in time during the study, feel free to share your thoughts. You can press the 'f' key on your keyboard and then speak your feedback into your microphone.</p>
+
+<p style='font-family: Arial, sans-serif; color: #333; font-size: 16px; text-align: left; margin-bottom: 15px;'>Your voice is important. It helps us understand and make improvements to the technology, working towards creating more inclusive future solutions.</p>
+
+    <div class="study-settings-buttons">
+    <button id="readInstructions">1. READ INSTRUCTIONS</button>
+    <button id="requestMicrophonePermission">2. MICROPHONE PERMISSION</button>
+    <button id="studyStartButton" disabled>3. START STUDY</button>
+    <div class="customUploadButtons">
+        <input id="select-image" type="file" name="image" accept="image/*" disabled />
+        <button id="upload-image" type="submit" disabled>4. UPLOAD</button>
+    </div>
+    </div>
+
+		<div id="formats"></div>
+	</div>
+    </center>
+
+
+    <script src="{{ url_for('static', filename='js/WebAudioRecorder.min.js') }}" ></script>
+    <script src="{{ url_for('static', filename='js/app.js') }}" ></script>
+</body>
+</html>

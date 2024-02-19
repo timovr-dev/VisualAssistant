@@ -1,0 +1,46 @@
+NEXT IMAGE >> 2.jpg <<
+
+NEXT IMAGE >> 0.jpg <<
+
+NEXT IMAGE >> 1.jpg <<
+
+[UPLOADED CUSTOM IMAGE NAME]> 145-1.jpg 
+[INITIAL CAPTION]>> a horse standing in a field with a mountain in the background 
+
+[UPLOADED CUSTOM IMAGE NAME]> 145-2.jpg 
+[INITIAL CAPTION]>> a horse standing in a field with a mountain in the background 
+
+[UPLOADED CUSTOM IMAGE NAME]> 145-3.jpg 
+[INITIAL CAPTION]>> a horse standing in a field with a mountain in the background 
+
+[UPLOADED CUSTOM IMAGE NAME]> 145-4.jpg 
+[INITIAL CAPTION]>> a horse standing in a field with a mountain in the background 
+
+[14-44-52]>> Blind User:  are their humans and the people. 
+[14-44-53]>> Visual Assistant: No, there are no humans visible in the picture. The iamge shows a landscape with a snow-capped mountain and a horse in the foreground. 
+
+[14-45-18]>> Blind User:  What color is the horse? 
+[14-45-19]>> Visual Assistant: The horse in the image is brown. 
+
+[UPLOADED CUSTOM IMAGE NAME]> 145-5.jpg 
+[INITIAL CAPTION]>> a horse standing in a field with a mountain in the background 
+
+[UPLOADED CUSTOM IMAGE NAME]> 145-6.jpg 
+[INITIAL CAPTION]>> a horse standing in a field with a mountain in the background 
+
+[14-50-01]>> Blind User:  Are there humans in the picture? 
+[14-50-03]>> Visual Assistant: No, there are no humans visible in the picture. The iamge shows a landscape with a snow-capped mountain and a horse in the foreground. 
+
+[UPLOADED CUSTOM IMAGE NAME]> 145-7.jpg 
+[INITIAL CAPTION]>> a horse standing in a field with a mountain in the background 
+
+[14-53-50]>> Blind User:  Are there humans in the picture? 
+[14-53-51]>> Visual Assistant: No, there are no humans visible in the picture. The image shows a landscape with a snow-capped mountain and a horse in the foreground. 
+
+[14-54-04]>> Blind User:  What color is the horse? 
+[14-54-05]>> Visual Assistant: The horse in the image is brown. 
+
+FEEDBACK >>  This response was too long.
+
+FEEDBACK >>  This response was too long.
+

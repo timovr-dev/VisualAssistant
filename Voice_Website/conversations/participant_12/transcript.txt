@@ -1,0 +1,9 @@
+[11-18-05]>> Blind User:  What is on the image? 
+[11-18-08]>> Visual Assistant: Answer 
+
+[11-18-16]>> Blind User:  Why do we have this image? 
+[11-18-17]>> Visual Assistant: Answer 
+
+[11-18-30]>> Blind User:  Can the image be seen? 
+[11-18-30]>> Visual Assistant: Answer 
+

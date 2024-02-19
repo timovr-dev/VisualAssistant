@@ -1,0 +1,9 @@
+[13-17-01]>> Blind User:  What? 
+[13-17-34]>> Visual Assistant: The image features a young boy sitting at a desk, wearing glasses and looking at a computer screen. The desk is cluttered with various items, including a cup, a cell phone, and a book. The boy is focused on the screen, possibly working on a project or engaging in some form of digital activity. 
+
+[13-20-44]>> Blind User:  Is there someone in the image say only yes or no? 
+[13-20-55]>> Visual Assistant: Yes. 
+
+[13-24-39]>> Blind User:  Is there a lion and the picture, say only yes or no? 
+[13-24-52]>> Visual Assistant: No. 
+

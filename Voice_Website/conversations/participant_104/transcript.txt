@@ -1,0 +1,8 @@
+[09-58-04]>> Blind User:  What is the picture about? 
+[09-58-07]>> Visual Assistant: Answer 
+
+NEXT IMAGE >> 0 <<
+
+[09-58-57]>> Blind User:  Okay. 
+[09-58-57]>> Visual Assistant: Answer 
+

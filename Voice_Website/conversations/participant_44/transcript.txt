@@ -1,0 +1,3 @@
+[13-10-32]>> Blind User:  What is on the picture? 
+[13-13-00]>> Visual Assistant: The picture features a young boy sitting at a desk, working on a computer. 
+

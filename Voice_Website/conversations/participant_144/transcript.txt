@@ -1,0 +1,12 @@
+NEXT IMAGE >> 0.jpg <<
+
+NEXT IMAGE >> 2.jpg <<
+
+NEXT IMAGE >> 1.jpg <<
+
+[UPLOADED CUSTOM IMAGE NAME]> 144-1.jpg 
+[INITIAL CAPTION]>> a horse standing in a field with a mountain in the background 
+
+[UPLOADED CUSTOM IMAGE NAME]> 144-2.jpg 
+[INITIAL CAPTION]>> a horse standing in a field with a mountain in the background 
+

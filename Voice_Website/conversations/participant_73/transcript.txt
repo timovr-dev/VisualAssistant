@@ -1,0 +1,17 @@
+[13-22-57]>> Blind User:  What is on the picture? 
+[13-22-59]>> Visual Assistant: answer 
+
+NEXT IMAGE >> 3 <<
+
+[13-23-07]>> Blind User:  There's no way 
+[13-23-08]>> Visual Assistant: answer 
+
+[13-23-11]>> Blind User:  Why is this the case? 
+[13-23-11]>> Visual Assistant: answer 
+
+NEXT IMAGE >> 1 <<
+
+NEXT IMAGE >> 2 <<
+
+NEXT IMAGE >>  <<
+

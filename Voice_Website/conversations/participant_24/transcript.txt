@@ -1,0 +1,6 @@
+[12-58-02]>> Blind User:  What is on the picture? 
+[12-58-19]>> Visual Assistant: The picture features a wooden pier or boardwalk extending over a body of water, with a blue sky in the background. 
+
+[12-58-38]>> Blind User:  Are there any houses in the picture? 
+[12-58-49]>> Visual Assistant: Yes, there are houses on stilts in the background, which are located near the pier or boardwalk. 
+

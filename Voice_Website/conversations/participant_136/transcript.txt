@@ -1,0 +1,9 @@
+NEXT IMAGE >> 1.jpg <<
+
+NEXT IMAGE >> 0.jpg <<
+
+NEXT IMAGE >> 2.jpg <<
+
+[12-54-56]>> Blind User:  you 
+[12-55-01]>> Visual Assistant: You have completed all static image conversations; you can now upload your own image. Simply select an image file and click the upload button. The system will automatically generate a caption. Afterwards, you can press space again to ask further questions about your own image. 
+

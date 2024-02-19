@@ -1,0 +1,14 @@
+[11-34-33]>> Blind User:  Now take everything I just said. 
+[11-34-50]>> Visual Assistant: Answer 
+
+[11-36-35]>> Blind User:  Describe the picture. 
+[11-36-36]>> Visual Assistant: Answer 
+
+[11-37-12]>> Blind User:  What is in the top right corner of the image? 
+[11-37-13]>> Visual Assistant: Answer 
+
+[11-39-36]>> Blind User:  Describe the picture. 
+[11-39-37]>> Visual Assistant: Answer 
+
+FEEDBACK >>  I would like to have a longer conversation.
+

@@ -1,0 +1,5 @@
+[11-30-29]>> Blind User:  What is on the picture? 
+[11-31-10]>> Visual Assistant: The picture features two dogs standing in a park, wearing coats. 
+
+NEXT IMAGE >> 1 <<
+

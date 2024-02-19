@@ -1,0 +1,29 @@
+NEXT IMAGE >> 2.jpg <<
+
+[13-33-35]>> Blind User:  How would you describe the colors of the drain? 
+[13-34-10]>> Visual Assistant: The drain is red and white in color. 
+
+[13-34-26]>> Blind User:  Are there any people in the picture? 
+[13-34-47]>> Visual Assistant: No, there are no people in the picture. 
+
+NEXT IMAGE >> 0.jpg <<
+
+[13-35-06]>> Blind User:  Are there any other relevant objects? 
+[13-35-29]>> Visual Assistant: Yes, there is a bench in the background of the image, which is located near the two dogs. 
+
+NEXT IMAGE >> 1.jpg <<
+
+[UPLOADED CUSTOM IMAGE NAME]> 139-1.png 
+[INITIAL CAPTION]>> a man in a green mask and black jacket 
+
+[UPLOADED CUSTOM IMAGE NAME]> 139-2.png 
+[INITIAL CAPTION]>> a man in a green mask and black jacket 
+
+[13-37-49]>> Blind User:  What is the hair color? 
+[13-38-14]>> Visual Assistant: The hair color is white. 
+
+[13-38-25]>> Blind User:  Does the person have an angry look on its face? Can you see this? 
+[13-38-51]>> Visual Assistant: Yes, the person has an angry look on its face, which is visible in the image. 
+
+FEEDBACK >>  This response was really bad because it is clear that it is visible in the image it was unnecessary.
+

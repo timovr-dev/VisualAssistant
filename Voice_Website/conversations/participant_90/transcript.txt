@@ -1,0 +1,3 @@
+[10-03-57]>> Blind User:  What is on the picture? 
+[10-04-13]>> Visual Assistant: Please grant microphone access to start the study. 
+

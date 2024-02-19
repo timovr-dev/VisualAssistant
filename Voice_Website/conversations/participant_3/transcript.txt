@@ -1,0 +1,15 @@
+[12-31-34]>> Blind User:  What is in the picture? 
+[12-31-37]>> Visual Assistant: Answer 
+
+[12-31-45]>> Blind User:  What can we see in the top right corner? 
+[12-31-46]>> Visual Assistant: Answer 
+
+[12-31-52]>> Blind User:  are their humans in the picture. 
+[12-31-52]>> Visual Assistant: Answer 
+
+FEEDBACK >>  I think the conversation was a little bit short, but overall I would say it was pretty good.
+
+FEEDBACK >>  I also think that I would like to have a more description and to have things that are more important in the oval process.
+
+[12-32-38]>> Blind User:  There are so many great things about this picture. What would you discuss? 
+[12-32-39]>> Visual Assistant: Answer 

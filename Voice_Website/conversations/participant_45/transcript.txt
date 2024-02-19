@@ -1,0 +1,6 @@
+[13-13-16]>> Blind User:  What is on the picture? 
+[13-13-36]>> Visual Assistant: The picture features a young boy sitting at a desk, using a computer, and looking at a piece of paper. The scene is set in a room with a desk, a computer, and a cup. 
+
+[13-13-54]>> Blind User:  What kind of cap? 
+[13-14-08]>> Visual Assistant: The boy is wearing a pair of glasses. 
+

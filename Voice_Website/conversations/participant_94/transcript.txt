@@ -1,0 +1,10 @@
+[10-38-35]>> Blind User:  What is on the picture? 
+[10-38-37]>> Visual Assistant: Please allow microphone access. 
+
+NEXT IMAGE >> 1 <<
+
+NEXT IMAGE >> 3 <<
+
+[10-40-25]>> Blind User:  What is on the picture? 
+[10-40-27]>> Visual Assistant: Microphone permission granted. 
+

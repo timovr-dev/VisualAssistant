@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  product-service:
+    build: ./BLIP2Service
+    volumes:
+      - ./BLIP2Service:/BLIP2Service
+    ports: 
+      - 5003:80
+    tty: true
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]

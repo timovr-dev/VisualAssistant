@@ -1,0 +1,12 @@
+[12-25-39]>> Blind User:  What is going on? 
+[12-25-42]>> Visual Assistant: Feedback received. 
+
+[12-25-47]>> Blind User:  You do have problems right? 
+[12-25-47]>> Visual Assistant: Feedback received. 
+
+[12-25-52]>> Blind User:  I cannot do this. 
+[12-25-53]>> Visual Assistant: Feedback received. 
+
+[12-27-05]>> Blind User:  Why are you here? Why are we still struggling? 
+[12-27-06]>> Visual Assistant: Feedback received. 
+

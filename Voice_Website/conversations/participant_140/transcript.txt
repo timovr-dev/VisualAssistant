@@ -1,0 +1,12 @@
+NEXT IMAGE >> 0.jpg <<
+
+NEXT IMAGE >> 2.jpg <<
+
+NEXT IMAGE >> 1.jpg <<
+
+[UPLOADED CUSTOM IMAGE NAME]> 140-1.jpg 
+[INITIAL CAPTION]>> a blue hexagonal object with a white background 
+
+[UPLOADED CUSTOM IMAGE NAME]> 140-2.jpeg 
+[INITIAL CAPTION]>> a colorful logo with a black background 
+

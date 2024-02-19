@@ -1,0 +1,6 @@
+[12-19-38]>> Blind User:  What is on the picture? 
+[12-19-46]>> Visual Assistant: The picture features a wooden pier or boardwalk extending over a body of water, with a blue sky in the background.</s> 
+
+[12-47-55]>> Blind User:  This is a test. 
+[12-48-00]>> Visual Assistant: Yes, this is a test.</s> 
+

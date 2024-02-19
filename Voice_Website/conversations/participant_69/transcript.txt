@@ -1,0 +1,30 @@
+[12-45-09]>> Blind User:  What is on the picture? 
+[12-45-12]>> Visual Assistant: answer 
+
+FEEDBACK >>  I want to leave some feedback.
+
+NEXT IMAGE >> 1 <<
+
+[12-46-02]>> Blind User:  Yeah, this is pretty cool. 
+[12-46-02]>> Visual Assistant: answer 
+
+[12-46-06]>> Blind User:  Why is that this way? 
+[12-46-06]>> Visual Assistant: answer 
+
+NEXT IMAGE >> 1 <<
+
+NEXT IMAGE >> 1 <<
+
+[12-47-53]>> Blind User:  What is in the picture? 
+[12-47-56]>> Visual Assistant: answer 
+
+NEXT IMAGE >> 1 <<
+
+NEXT IMAGE >> 1 <<
+
+NEXT IMAGE >> 1 <<
+
+NEXT IMAGE >> 1 <<
+
+NEXT IMAGE >> 1 <<
+

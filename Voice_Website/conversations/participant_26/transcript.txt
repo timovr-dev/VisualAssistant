@@ -1,0 +1,27 @@
+[13-10-20]>> Blind User:  What is on the picture? 
+[13-11-01]>> Visual Assistant: The picture features a young boy sitting at a desk, working on a computer. 
+
+[13-16-48]>> Blind User:  What is on the picture? 
+[13-17-08]>> Visual Assistant: The picture features a young boy sitting at a desk, working on a computer. 
+
+[13-18-56]>> Blind User:  What is on the picture? 
+[13-20-28]>> Visual Assistant: The picture features a young boy sitting at a desk, working on a computer. 
+
+[13-37-16]>> Blind User:  What is on the picture? 
+[13-37-27]>> Visual Assistant: The picture features a young boy sitting at a desk, working on a computer. 
+
+[13-37-40]>> Blind User:  What is on the desk? 
+[13-37-56]>> Visual Assistant: On the desk, there is a computer, a book, and a cup. 
+
+[13-38-59]>> Blind User:  What is on the book? 
+[13-39-16]>> Visual Assistant: The book is covered in numbers. 
+
+[13-42-17]>> Blind User:  What is going on? 
+[13-42-34]>> Visual Assistant: The young boy is working on a computer, likely engaged in activities such as studying, doing homework, or playing games. 
+
+[13-42-59]>> Blind User:  What did you say? 
+[13-43-13]>> Visual Assistant: I said the young boy is working on a computer, likely engaged in activities such as studying, doing homework, or playing games. 
+
+[13-44-59]>> Blind User:  What is on the picture? 
+[13-45-11]>> Visual Assistant: The picture features a young boy sitting at a desk, working on a computer. 
+

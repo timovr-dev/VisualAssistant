@@ -1,0 +1,5 @@
+[09-54-42]>> Blind User:  What is going on? 
+[09-54-43]>> Visual Assistant: Answer 
+
+NEXT IMAGE >> 0 <<
+

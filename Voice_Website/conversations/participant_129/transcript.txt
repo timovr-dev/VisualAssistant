@@ -1,0 +1,10 @@
+NEXT IMAGE >> 0.jpg <<
+
+[19-24-14]>> Blind User:  you 
+[19-24-27]>> Visual Assistant: a couple of dogs that are standing in the snow 
+
+NEXT IMAGE >> 1.jpg <<
+
+[19-24-41]>> Blind User:  you 
+[19-24-45]>> Visual Assistant: a group of people in a kitchen preparing food 
+

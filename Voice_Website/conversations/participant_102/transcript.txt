@@ -1,0 +1,16 @@
+[09-53-44]>> Blind User:  What is on the picture? 
+[09-53-46]>> Visual Assistant: Answer 
+
+[09-53-53]>> Blind User:  There are so many opportunities. 
+[09-53-53]>> Visual Assistant: Answer 
+
+NEXT IMAGE >> 1 <<
+
+[09-54-04]>> Blind User:  What is on the picture? 
+[09-54-05]>> Visual Assistant: Answer 
+
+[09-54-10]>> Blind User:  Why? 
+[09-54-11]>> Visual Assistant: Answer 
+
+NEXT IMAGE >> 2 <<
+

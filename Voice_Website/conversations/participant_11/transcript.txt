@@ -1,0 +1,9 @@
+[11-14-51]>> Blind User:  What is on the limit? 
+[11-14-54]>> Visual Assistant: Answer 
+
+[11-15-04]>> Blind User:  Describe the boy. 
+[11-15-04]>> Visual Assistant: Answer 
+
+[11-16-09]>> Blind User:  What can I learn from you? 
+[11-16-11]>> Visual Assistant: Answer 
+

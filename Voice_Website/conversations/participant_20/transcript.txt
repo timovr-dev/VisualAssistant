@@ -1,0 +1,14 @@
+[13-16-40]>> Blind User:  What is on the picture? 
+[13-17-25]>> Visual Assistant: The picture features a wooden pier or dock extending out over the water, with a blue sky in the background. 
+
+[13-17-39]>> Blind User:  are there humans in the picture? 
+[13-18-08]>> Visual Assistant: No, there are no humans visible in the picture. 
+
+[13-18-17]>> Blind User:  How would you describe the colors of the picture? 
+[13-18-46]>> Visual Assistant: The picture has a blue sky in the background, and the wooden pier or dock is brown. 
+
+[13-18-58]>> Blind User:  What is the color of the water? 
+[13-19-25]>> Visual Assistant: The color of the water in the image is blue. 
+
+FEEDBACK >>  This response was way too long. I would like to have it a little bit shorter.
+

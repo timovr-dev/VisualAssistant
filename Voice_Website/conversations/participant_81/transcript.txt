@@ -1,0 +1,29 @@
+[20-49-16]>> Blind User:  What is on the picture? 
+[20-49-31]>> Visual Assistant: answer 
+
+[20-49-39]>> Blind User:  What can I see in the top right corner? 
+[20-49-40]>> Visual Assistant: answer 
+
+FEEDBACK >>  This was not a good answer.
+
+FEEDBACK >>  This is such a bad conversation.
+
+NEXT IMAGE >> 2 <<
+
+[20-50-03]>> Blind User:  What is on the picture? 
+[20-50-04]>> Visual Assistant: answer 
+
+[20-50-10]>> Blind User:  This is so bad. 
+[20-50-10]>> Visual Assistant: answer 
+
+FEEDBACK >>  This is really bad I would like to not really continue this conversation.
+
+NEXT IMAGE >> 3 <<
+
+[20-50-27]>> Blind User:  You are so fucking bad. 
+[20-50-28]>> Visual Assistant: answer 
+
+FEEDBACK >>  No way!
+
+NEXT IMAGE >> 1 <<
+

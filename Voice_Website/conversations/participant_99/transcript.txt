@@ -1,0 +1,7 @@
+[09-47-05]>> Blind User:  What was this? 
+[09-47-07]>> Visual Assistant: The third and last image is about,  
+
+NEXT IMAGE >> 1 <<
+
+NEXT IMAGE >> 2 <<
+

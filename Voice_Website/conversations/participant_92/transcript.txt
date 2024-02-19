@@ -1,0 +1,3 @@
+[10-12-58]>> Blind User:  What is on the picture? 
+[10-13-01]>> Visual Assistant: Please allow microphone access. 
+

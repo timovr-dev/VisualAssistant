@@ -1,0 +1,13 @@
+[12-55-47]>> Blind User:  What is on the picture? 
+[12-55-50]>> Visual Assistant: answer 
+
+NEXT IMAGE >> 1 <<
+
+NEXT IMAGE >> 1 <<
+
+[13-01-03]>> Blind User:  Tiss. 
+[13-01-06]>> Visual Assistant: answer 
+
+[13-12-52]>> Blind User:  you 
+[13-12-54]>> Visual Assistant: answer 
+

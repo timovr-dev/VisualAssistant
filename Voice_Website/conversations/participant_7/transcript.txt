@@ -1,0 +1,15 @@
+[10-24-58]>> Blind User:  What can I do for you? 
+[10-25-01]>> Visual Assistant: Answer 
+
+[10-25-07]>> Blind User:  What is on the image? 
+[10-25-08]>> Visual Assistant: Answer 
+
+[10-25-20]>> Blind User:  Describe the colors. 
+[10-25-20]>> Visual Assistant: Answer 
+
+[10-25-31]>> Blind User:  Why is the image black? 
+[10-25-32]>> Visual Assistant: Answer 
+
+[10-25-42]>> Blind User:  is there something that I can do for you? 
+[10-25-42]>> Visual Assistant: Answer 
+

@@ -1,0 +1,91 @@
+\section{Dataset Generation Model}
+\begin{table}[ht]
+  \centering
+  \caption{Dataset Generation Process}
+\begin{tabularx}{\textwidth}{@{}p{2cm}p{10cm}p{3cm}@{}}
+    \toprule
+    \textbf{Identifier} & \textbf{Name} & \textbf{Source}\\
+    \midrule
+    DGP - R01 & The Dataset Generation Model must be steerable to generate outputs that consider the needs of BVIs. & Interview\\
+    \hline
+    DGP - R02 & The Dataset Generation Model should be the current best performing natural language processing model available because Visual Assistant model needs to be trained on high quality data. & Brainstorming\\
+    \hline
+    DGP - R03 & The Dataset Generation Model must be capable to generate synthetic data sets that replicate conversations between a Visual Assistant and a blind person.  & Literature Review\\
+    \hline
+    DGP - R04 &  The Dataset Generation Model should generate varied, rich and diverse conversations to cater to different usage situations and contexts. & Interview\\
+    \hline
+    DGP - R05 & The Dataset Generation should generate the conversation promptly, within a reasonable amount of time, to ensure the dataset generation takes place within my master-thesis period. & Brainstorming\\
+    \hline
+    DGP - R06 & The Dataset Generation should always save the current state as checkpoints so that if a problem occurs it should restart from the last existing checkpoint to not generate duplicates and save time. & Brainstorming\\
+    \hline
+    
+    \bottomrule
+      \end{tabularx}
+  \label{tab:requirements}
+\end{table}
+\section{Visual Assistant Model}
+\begin{table}[ht]
+  \centering
+  \caption{Visual Assistant Model Requirements}
+\begin{tabularx}{\textwidth}{@{}p{2cm}p{10cm}p{3cm}@{}}
+    \toprule
+    \textbf{Identifier} & \textbf{Name} & \textbf{Source}\\
+    \midrule
+
+    VAM - R01 & The Visual Assistant should be capable of identifying and describing people in the images, including aspects such as age, gender, clothing, and facial expressions. & Literature Review\\
+    \hline
+    VAM - R02 & The Visual Assistant model needs to be able to describe the activities taking place within the image. & Literature Review\\
+    \hline
+    VAM - R03 & The Visual Assistant needs to be able to describe the overall atmosphere within the image. & Literature Review\\
+    \hline
+    VAM - R04 & The Visual Assistant needs to be able to describe the colors within the image. & Literature Review\\
+    \hline
+    VAM - R05 & The Visual assistant model should be capable of providing descriptions of varying levels of detail based on user preference and need. & Literature Review\\
+        \hline
+    VAM - R06 & The model must structure descriptions in complete sentences that are easy for BVI to understand and interpret. & Literature Review \\
+    \hline
+    VAM - R07 & The model must be able to provide customized / personalized image descriptions that cater to the unique interests and needs of individual BVI users. & Literature Review\\
+    \hline
+    VAM - R08 & The Visual Assistant should be able to locate objects, to aid in understanding the perspective and setting of the image. & Interview\\
+    \hline
+    VAM - R09 & The Visual Assistant should be able to mention the interaction between objects (including humans) in the image, as it intrigues the users and helps in forming clear mental images. & Literature Review \& Interview\\
+    \hline
+    VAM - R10 & The Visual Assistant should have general knowledge in a lot of different fields because there can be a lot of different images in the internet. & Interview\\
+    \hline
+    VAM - R11 & The Visual Assistant Model should be a pre-trained model to significantly reduce the training costs. & Brainstormig\\
+    \hline
+    
+    
+    \bottomrule
+  \end{tabularx}
+  \label{tab:requirements}
+\end{table}
+\section{Descriptions}
+
+\begin{table}[ht]
+  \centering
+  \caption{Description Requirements}
+    \begin{tabularx}{\textwidth}{@{}p{2cm}p{10cm}p{3cm}@{}}
+    \toprule
+    \textbf{Identifier} & \textbf{Name} & \textbf{Source}\\
+    \midrule
+    DR - R01 & The descriptions provided for blind people should encompass salient aspects and main activities so that the BVI quickly understands what is going on in the image. & Literature Review\\
+    \hline
+    DR - R02 & The descriptions need to be structured into complete and whole sentences, designed with BVIs preference and comprehension in mind. & Literature Review\\
+    \hline
+    DR - R03 & Varying levels of detail should be available within descriptions, for BVI individuals to select based on their needs or context. & Literature Review\\
+    \hline
+    DR - R04 & Description should offer a level of personalization to cater to individuals' unique interests and requirements. & Literature Review\\
+    \hline
+    DR - R05 & The descriptions need to be concise and quickly convey an overview of the image. & Interview\\
+    \hline
+    DR - R06 & The descriptions should focus on object positioning to provide clarity on the image's perspective and setting. & Interview\\
+    \hline
+    DR - R07 & The descriptions should emphasize on object (including human) interactions which has been found to convey a lot of context to form a clear mental image. & Interview\\
+    \hline
+
+    \bottomrule
+  \end{tabularx}
+  \label{tab:requirements}
+\end{table}
+

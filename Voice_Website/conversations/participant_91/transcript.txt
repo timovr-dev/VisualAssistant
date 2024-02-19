@@ -1,0 +1,3 @@
+[10-09-53]>> Blind User:  What is on the picture? 
+[10-09-57]>> Visual Assistant: Microphone permission granted, you can now start the study. 
+

@@ -1,0 +1,9 @@
+[11-42-33]>> Blind User:  Are there any other objects in the image? 
+[11-42-49]>> Visual Assistant: Yes, there is a bench in the image, located near the two dogs. 
+
+FEEDBACK >>  I would like to give a feedback.
+
+NEXT IMAGE >> 1 <<
+
+NEXT IMAGE >> 2 <<
+

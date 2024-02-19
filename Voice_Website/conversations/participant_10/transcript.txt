@@ -1,0 +1,9 @@
+[11-12-35]>> Blind User:  What is in the image? 
+[11-12-37]>> Visual Assistant: Answer 
+
+[11-12-46]>> Blind User:  Describe the young boy. 
+[11-12-46]>> Visual Assistant: Answer 
+
+[11-13-06]>> Blind User:  What is the young boy doing? 
+[11-13-07]>> Visual Assistant: Answer 
+

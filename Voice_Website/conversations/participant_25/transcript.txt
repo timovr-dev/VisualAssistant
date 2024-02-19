@@ -1,0 +1,6 @@
+[13-00-28]>> Blind User:  What is on the picture? 
+[13-01-10]>> Visual Assistant: The picture features a young boy sitting at a desk, looking at a computer screen. 
+
+[13-02-15]>> Blind User:  Why is there a human in the picture? 
+[13-02-34]>> Visual Assistant: The human is in the picture because the image is a drawing or a cartoon of a boy using a computer. 
+

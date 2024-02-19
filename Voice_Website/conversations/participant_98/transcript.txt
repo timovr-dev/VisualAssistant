@@ -1,0 +1,21 @@
+[08-54-52]>> Blind User:  What is on the picture? 
+[08-55-09]>> Visual Assistant: A red train is traveling down the tracks. 
+
+[08-57-18]>> Blind User:  This is a test. 
+[08-57-21]>> Visual Assistant: Two dogs wearing coats are standing in the snow. 
+
+[08-57-30]>> Blind User:  What? 
+[08-57-31]>> Visual Assistant: Two dogs wearing coats are standing in the snow. 
+
+[08-58-25]>> Blind User:  first 
+[08-58-28]>> Visual Assistant: A group of chefs working together in a kitchen. 
+
+[09-03-27]>> Blind User:  you 
+[09-03-29]>> Visual Assistant: The first image is about 
+
+[09-04-05]>> Blind User:  Yes 
+[09-04-07]>> Visual Assistant: The second image is about,  
+
+[09-04-21]>> Blind User:  Taste 
+[09-04-23]>> Visual Assistant: The third and last image is about,  
+
